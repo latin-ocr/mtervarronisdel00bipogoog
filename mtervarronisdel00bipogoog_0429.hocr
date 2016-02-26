@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtervarronisdel00bipogoog/mtervarronisdel00bipogoog_0429.png"; bbox 0 0 2834 4567; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 29 1384 1302 1991">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 29 1384 1302 1991">
+     <span class='ocr_line' id='line_1_1' title="bbox 434 1384 875 1504; baseline 0.007 -3"><span class='ocrx_word' id='word_1_1' title='bbox 434 1384 875 1504; x_wconf 86' lang='lat' dir='ltr'>NOTAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 344 1632 690 1710; baseline 0.009 -3"><span class='ocrx_word' id='word_1_2' title='bbox 344 1632 351 1655; x_wconf 59' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_3' title='bbox 616 1636 690 1710; x_wconf 84' lang='grc' dir='ltr'><strong>ΙΝ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 29 1782 1302 1991; baseline 0.002 -3"><span class='ocrx_word' id='word_1_4' title='bbox 29 1782 31 1791; x_wconf 11' lang='grc'>1</span> <span class='ocrx_word' id='word_1_5' title='bbox 168 1869 251 1988; x_wconf 83' lang='grc' dir='ltr'><strong>Μ.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 317 1869 520 1988; x_wconf 78' lang='lat' dir='ltr'><strong>TER.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 581 1793 1132 1991; x_wconf 73' lang='lat' dir='ltr'><strong>VARRONIS</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1299 1794 1302 1803; x_wconf 35' lang='lat'><strong><em>¹</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 171 2128 1049 2245">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 171 2128 1049 2245">
+     <span class='ocr_line' id='line_1_4' title="bbox 171 2128 1049 2245; baseline 0.001 -23"><span class='ocrx_word' id='word_1_9' title='bbox 171 2240 176 2245; x_wconf 34' lang='grc'>,</span> <span class='ocrx_word' id='word_1_10' title='bbox 262 2128 1049 2223; x_wconf 68' lang='grc' dir='ltr'><strong>ῡε“ιι’ΝουΑιΑτιΝΑ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 185 2356 1080 2453">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 185 2356 1080 2453">
+     <span class='ocr_line' id='line_1_5' title="bbox 185 2356 1080 2453; baseline -0.002 -20"><span class='ocrx_word' id='word_1_11' title='bbox 185 2356 217 2445; x_wconf 69' lang='grc'><strong>,’</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 325 2367 990 2453; x_wconf 80' lang='lat' dir='ltr'><strong>LIBROSQUISUPERSUNT,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1076 2406 1080 2413; x_wconf 89' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1422 4567">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1422 4567">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1422 4567; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1422 4567; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

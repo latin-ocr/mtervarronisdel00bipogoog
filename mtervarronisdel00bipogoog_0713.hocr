@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtervarronisdel00bipogoog/mtervarronisdel00bipogoog_0713.png"; bbox 0 0 2834 4567; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 92 1715 1183 2413">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 92 1643 1183 2413">
+     <span class='ocr_line' id='line_1_1' title="bbox 286 1715 1031 1874; baseline 0.015 -72"><span class='ocrx_word' id='word_1_1' title='bbox 286 1715 1031 1874; x_wconf 63' lang='lat' dir='ltr'>AUSONIJPOPMAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 92 1891 905 2059; baseline 0.022 -16"><span class='ocrx_word' id='word_1_2' title='bbox 92 1981 98 1992; x_wconf 93' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 186 1891 193 1902; x_wconf 78' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 293 1997 298 2008; x_wconf 72' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 463 1935 905 2059; x_wconf 66' lang='lat' dir='ltr'>Nom·-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 198 2149 1183 2413; baseline 0.021 -120"><span class='ocrx_word' id='word_1_6' title='bbox 198 2149 1110 2413; x_wconf 47' lang='lat' dir='ltr'>INFR&#39;AGMENTAVARQNIS·</span> <span class='ocrx_word' id='word_1_7' title='bbox 1175 2359 1183 2372; x_wconf 19' lang='lat' dir='ltr'><em>A</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1422 4567">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1422 4567">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1422 4567; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1422 4567; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
